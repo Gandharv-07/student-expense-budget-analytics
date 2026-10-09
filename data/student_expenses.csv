@@ -1,0 +1,494 @@
+date,category,description,amount_inr,payment_method,student_id
+2026-01-01,Entertainment,Movie,160.2,UPI,DEMO_STUDENT
+2026-01-02,Food,Dinner,133.69,Cash,DEMO_STUDENT
+2026-01-02,Transport,Bus pass,59.54,Cash,DEMO_STUDENT
+2026-01-02,Entertainment,Game,378.38,Debit Card,DEMO_STUDENT
+2026-01-04,Utilities,Internet,698.72,Cash,DEMO_STUDENT
+2026-01-04,Food,Lunch,152.08,Debit Card,DEMO_STUDENT
+2026-01-05,Transport,Auto fare,175.98,Debit Card,DEMO_STUDENT
+2026-01-05,Healthcare,Medicine,254.54,Debit Card,DEMO_STUDENT
+2026-01-05,Education,Course fee,697.61,UPI,DEMO_STUDENT
+2026-01-06,Entertainment,Game,239.97,Debit Card,DEMO_STUDENT
+2026-01-07,Healthcare,Medicine,538.07,Debit Card,DEMO_STUDENT
+2026-01-07,Food,Groceries,215.16,UPI,DEMO_STUDENT
+2026-01-07,Education,Printing,722.9,UPI,DEMO_STUDENT
+2026-01-08,Utilities,Mobile recharge,159.96,Cash,DEMO_STUDENT
+2026-01-08,Education,Course fee,585.28,Cash,DEMO_STUDENT
+2026-01-08,Food,Snacks,140.67,Debit Card,DEMO_STUDENT
+2026-01-12,Food,Groceries,260.62,UPI,DEMO_STUDENT
+2026-01-12,Shopping,Online purchase,489.73,Debit Card,DEMO_STUDENT
+2026-01-12,Transport,Auto fare,193.72,Cash,DEMO_STUDENT
+2026-01-13,Education,Books,789.08,Cash,DEMO_STUDENT
+2026-01-14,Healthcare,First aid,157.01,Debit Card,DEMO_STUDENT
+2026-01-14,Shopping,Clothing,635.34,UPI,DEMO_STUDENT
+2026-01-16,Food,Lunch,339.41,Debit Card,DEMO_STUDENT
+2026-01-16,Food,Lunch,240.52,Cash,DEMO_STUDENT
+2026-01-16,Food,Dinner,254.29,UPI,DEMO_STUDENT
+2026-01-17,Utilities,Electricity share,716.6,Debit Card,DEMO_STUDENT
+2026-01-19,Utilities,Internet,172.51,Debit Card,DEMO_STUDENT
+2026-01-19,Food,Snacks,172.58,UPI,DEMO_STUDENT
+2026-01-20,Shopping,Clothing,388.15,Cash,DEMO_STUDENT
+2026-01-21,Transport,Bus pass,37.95,Cash,DEMO_STUDENT
+2026-01-22,Utilities,Internet,624.63,Cash,DEMO_STUDENT
+2026-01-22,Entertainment,Event,438.83,UPI,DEMO_STUDENT
+2026-01-23,Transport,Auto fare,185.9,UPI,DEMO_STUDENT
+2026-01-23,Utilities,Internet,295.39,UPI,DEMO_STUDENT
+2026-01-25,Entertainment,Event,246.38,Debit Card,DEMO_STUDENT
+2026-01-25,Accommodation,Maintenance,4790.92,Debit Card,DEMO_STUDENT
+2026-01-25,Entertainment,Game,373.89,UPI,DEMO_STUDENT
+2026-01-26,Shopping,Personal items,1093.09,Debit Card,DEMO_STUDENT
+2026-01-26,Shopping,Online purchase,611.49,Debit Card,DEMO_STUDENT
+2026-01-27,Food,Groceries,337.04,Cash,DEMO_STUDENT
+2026-01-27,Shopping,Online purchase,945.34,UPI,DEMO_STUDENT
+2026-01-28,Food,Lunch,282.76,UPI,DEMO_STUDENT
+2026-01-28,Utilities,Internet,184.95,UPI,DEMO_STUDENT
+2026-01-28,Entertainment,Cafe,263.6,UPI,DEMO_STUDENT
+2026-01-29,Food,Lunch,166.32,UPI,DEMO_STUDENT
+2026-01-30,Education,Printing,432.62,Cash,DEMO_STUDENT
+2026-01-30,Food,Dinner,174.97,UPI,DEMO_STUDENT
+2026-01-31,Shopping,Online purchase,544.75,Debit Card,DEMO_STUDENT
+2026-01-31,Shopping,Clothing,192.34,UPI,DEMO_STUDENT
+2026-01-31,Education,Printing,370.0,Debit Card,DEMO_STUDENT
+2026-02-02,Shopping,Clothing,959.36,Cash,DEMO_STUDENT
+2026-02-03,Utilities,Internet,425.52,UPI,DEMO_STUDENT
+2026-02-03,Shopping,Clothing,1121.78,Cash,DEMO_STUDENT
+2026-02-03,Entertainment,Game,320.19,Debit Card,DEMO_STUDENT
+2026-02-04,Entertainment,Game,97.49,Cash,DEMO_STUDENT
+2026-02-04,Education,Stationery,760.59,Debit Card,DEMO_STUDENT
+2026-02-05,Transport,Auto fare,123.92,Debit Card,DEMO_STUDENT
+2026-02-05,Accommodation,Maintenance,2466.94,UPI,DEMO_STUDENT
+2026-02-06,Accommodation,Room rent,3068.61,Debit Card,DEMO_STUDENT
+2026-02-06,Transport,Fuel share,135.16,Cash,DEMO_STUDENT
+2026-02-06,Food,Snacks,274.75,Debit Card,DEMO_STUDENT
+2026-02-07,Shopping,Personal items,1178.56,Debit Card,DEMO_STUDENT
+2026-02-07,Food,Lunch,92.29,Cash,DEMO_STUDENT
+2026-02-07,Education,Course fee,452.38,UPI,DEMO_STUDENT
+2026-02-08,Food,Snacks,120.28,Debit Card,DEMO_STUDENT
+2026-02-08,Food,Dinner,221.09,UPI,DEMO_STUDENT
+2026-02-08,Shopping,Online purchase,914.1,Debit Card,DEMO_STUDENT
+2026-02-11,Education,Printing,126.11,Debit Card,DEMO_STUDENT
+2026-02-11,Shopping,Online purchase,1127.04,UPI,DEMO_STUDENT
+2026-02-11,Food,Snacks,163.06,Cash,DEMO_STUDENT
+2026-02-12,Education,Course fee,578.43,Debit Card,DEMO_STUDENT
+2026-02-12,Utilities,Mobile recharge,799.7,Debit Card,DEMO_STUDENT
+2026-02-13,Utilities,Internet,429.01,Debit Card,DEMO_STUDENT
+2026-02-13,Education,Printing,630.07,Cash,DEMO_STUDENT
+2026-02-14,Shopping,Online purchase,696.85,UPI,DEMO_STUDENT
+2026-02-15,Food,Dinner,157.77,Cash,DEMO_STUDENT
+2026-02-15,Shopping,Personal items,707.48,Cash,DEMO_STUDENT
+2026-02-15,Education,Stationery,318.74,Debit Card,DEMO_STUDENT
+2026-02-16,Healthcare,First aid,229.56,Debit Card,DEMO_STUDENT
+2026-02-17,Education,Printing,487.47,UPI,DEMO_STUDENT
+2026-02-18,Food,Dinner,281.07,Cash,DEMO_STUDENT
+2026-02-18,Healthcare,Clinic,618.22,UPI,DEMO_STUDENT
+2026-02-20,Transport,Train ticket,161.61,Debit Card,DEMO_STUDENT
+2026-02-20,Food,Snacks,250.41,Debit Card,DEMO_STUDENT
+2026-02-21,Food,Snacks,294.96,Debit Card,DEMO_STUDENT
+2026-02-22,Food,Dinner,101.32,Cash,DEMO_STUDENT
+2026-02-23,Food,Snacks,297.25,Debit Card,DEMO_STUDENT
+2026-02-23,Food,Groceries,308.23,Debit Card,DEMO_STUDENT
+2026-02-23,Transport,Fuel share,162.86,Cash,DEMO_STUDENT
+2026-02-24,Entertainment,Cafe,153.55,Debit Card,DEMO_STUDENT
+2026-02-24,Shopping,Online purchase,439.83,Debit Card,DEMO_STUDENT
+2026-02-25,Food,Snacks,225.64,UPI,DEMO_STUDENT
+2026-02-26,Food,Dinner,340.96,Cash,DEMO_STUDENT
+2026-02-27,Shopping,Personal items,743.02,Debit Card,DEMO_STUDENT
+2026-02-27,Food,Snacks,302.44,UPI,DEMO_STUDENT
+2026-02-27,Food,Groceries,319.56,Debit Card,DEMO_STUDENT
+2026-02-28,Shopping,Online purchase,1017.06,UPI,DEMO_STUDENT
+2026-02-28,Healthcare,Medicine,114.58,UPI,DEMO_STUDENT
+2026-03-01,Shopping,Clothing,1168.2,UPI,DEMO_STUDENT
+2026-03-01,Shopping,Online purchase,994.36,Debit Card,DEMO_STUDENT
+2026-03-01,Food,Lunch,127.11,Cash,DEMO_STUDENT
+2026-03-03,Food,Dinner,97.16,Debit Card,DEMO_STUDENT
+2026-03-03,Entertainment,Event,440.14,UPI,DEMO_STUDENT
+2026-03-03,Education,Course fee,827.76,Debit Card,DEMO_STUDENT
+2026-03-04,Accommodation,Maintenance,2833.17,Debit Card,DEMO_STUDENT
+2026-03-04,Entertainment,Event,146.76,UPI,DEMO_STUDENT
+2026-03-04,Transport,Train ticket,89.38,UPI,DEMO_STUDENT
+2026-03-05,Entertainment,Event,415.3,Cash,DEMO_STUDENT
+2026-03-05,Shopping,Clothing,486.81,UPI,DEMO_STUDENT
+2026-03-05,Entertainment,Game,308.35,Cash,DEMO_STUDENT
+2026-03-06,Healthcare,Medicine,418.11,Debit Card,DEMO_STUDENT
+2026-03-07,Education,Books,225.93,Debit Card,DEMO_STUDENT
+2026-03-07,Food,Dinner,199.64,Cash,DEMO_STUDENT
+2026-03-08,Shopping,Personal items,752.45,Cash,DEMO_STUDENT
+2026-03-08,Utilities,Internet,637.14,UPI,DEMO_STUDENT
+2026-03-10,Education,Printing,766.68,UPI,DEMO_STUDENT
+2026-03-11,Transport,Train ticket,106.84,Cash,DEMO_STUDENT
+2026-03-11,Entertainment,Event,463.9,Cash,DEMO_STUDENT
+2026-03-11,Healthcare,First aid,534.77,UPI,DEMO_STUDENT
+2026-03-12,Transport,Auto fare,212.06,UPI,DEMO_STUDENT
+2026-03-12,Entertainment,Event,344.98,Debit Card,DEMO_STUDENT
+2026-03-13,Transport,Auto fare,214.48,Cash,DEMO_STUDENT
+2026-03-13,Shopping,Personal items,487.14,UPI,DEMO_STUDENT
+2026-03-13,Shopping,Online purchase,1175.11,Debit Card,DEMO_STUDENT
+2026-03-14,Education,Books,220.69,UPI,DEMO_STUDENT
+2026-03-14,Food,Dinner,271.06,Debit Card,DEMO_STUDENT
+2026-03-14,Shopping,Clothing,968.15,Debit Card,DEMO_STUDENT
+2026-03-15,Healthcare,Medicine,266.69,Debit Card,DEMO_STUDENT
+2026-03-15,Utilities,Electricity share,316.71,Cash,DEMO_STUDENT
+2026-03-15,Education,Stationery,114.58,UPI,DEMO_STUDENT
+2026-03-17,Education,Stationery,531.82,Debit Card,DEMO_STUDENT
+2026-03-18,Entertainment,Event,69.66,UPI,DEMO_STUDENT
+2026-03-19,Healthcare,Medicine,176.11,Debit Card,DEMO_STUDENT
+2026-03-19,Food,Dinner,147.5,UPI,DEMO_STUDENT
+2026-03-20,Food,Groceries,198.12,Cash,DEMO_STUDENT
+2026-03-20,Food,Snacks,348.52,UPI,DEMO_STUDENT
+2026-03-20,Transport,Fuel share,187.65,UPI,DEMO_STUDENT
+2026-03-21,Utilities,Mobile recharge,526.22,Cash,DEMO_STUDENT
+2026-03-21,Shopping,Online purchase,785.09,Debit Card,DEMO_STUDENT
+2026-03-21,Food,Dinner,118.77,Debit Card,DEMO_STUDENT
+2026-03-23,Utilities,Internet,480.86,Debit Card,DEMO_STUDENT
+2026-03-25,Food,Lunch,257.42,Debit Card,DEMO_STUDENT
+2026-03-25,Education,Books,656.31,UPI,DEMO_STUDENT
+2026-03-26,Transport,Fuel share,88.91,UPI,DEMO_STUDENT
+2026-03-27,Transport,Fuel share,181.88,Cash,DEMO_STUDENT
+2026-03-27,Transport,Bus pass,181.49,Cash,DEMO_STUDENT
+2026-03-29,Transport,Auto fare,144.5,Debit Card,DEMO_STUDENT
+2026-03-29,Utilities,Mobile recharge,292.19,Debit Card,DEMO_STUDENT
+2026-03-30,Food,Snacks,98.15,Cash,DEMO_STUDENT
+2026-03-30,Transport,Train ticket,174.99,UPI,DEMO_STUDENT
+2026-03-31,Education,Course fee,830.83,Debit Card,DEMO_STUDENT
+2026-03-31,Utilities,Electricity share,443.84,Cash,DEMO_STUDENT
+2026-04-01,Food,Snacks,226.39,UPI,DEMO_STUDENT
+2026-04-01,Food,Snacks,213.39,Cash,DEMO_STUDENT
+2026-04-01,Utilities,Internet,603.21,Debit Card,DEMO_STUDENT
+2026-04-02,Healthcare,First aid,557.17,Cash,DEMO_STUDENT
+2026-04-03,Utilities,Electricity share,257.83,Cash,DEMO_STUDENT
+2026-04-03,Shopping,Online purchase,202.77,UPI,DEMO_STUDENT
+2026-04-05,Food,Dinner,136.92,Cash,DEMO_STUDENT
+2026-04-05,Food,Dinner,297.98,Cash,DEMO_STUDENT
+2026-04-05,Education,Course fee,263.22,Debit Card,DEMO_STUDENT
+2026-04-06,Food,Dinner,113.08,Cash,DEMO_STUDENT
+2026-04-06,Food,Groceries,313.63,Cash,DEMO_STUDENT
+2026-04-07,Food,Dinner,335.21,Cash,DEMO_STUDENT
+2026-04-07,Shopping,Clothing,1027.13,Cash,DEMO_STUDENT
+2026-04-08,Food,Groceries,93.81,Debit Card,DEMO_STUDENT
+2026-04-08,Shopping,Personal items,230.69,Debit Card,DEMO_STUDENT
+2026-04-09,Food,Snacks,90.51,Cash,DEMO_STUDENT
+2026-04-09,Food,Snacks,347.47,Cash,DEMO_STUDENT
+2026-04-09,Transport,Train ticket,50.82,Debit Card,DEMO_STUDENT
+2026-04-10,Shopping,Clothing,287.56,Cash,DEMO_STUDENT
+2026-04-11,Transport,Bus pass,68.74,Debit Card,DEMO_STUDENT
+2026-04-12,Education,Printing,526.5,UPI,DEMO_STUDENT
+2026-04-13,Entertainment,Game,367.21,Debit Card,DEMO_STUDENT
+2026-04-13,Shopping,Personal items,517.66,Cash,DEMO_STUDENT
+2026-04-14,Food,Groceries,209.35,Debit Card,DEMO_STUDENT
+2026-04-14,Healthcare,Medicine,196.69,UPI,DEMO_STUDENT
+2026-04-14,Food,Groceries,228.6,Cash,DEMO_STUDENT
+2026-04-15,Shopping,Clothing,355.44,Debit Card,DEMO_STUDENT
+2026-04-16,Healthcare,Medicine,56.02,Cash,DEMO_STUDENT
+2026-04-16,Transport,Auto fare,183.67,Cash,DEMO_STUDENT
+2026-04-17,Shopping,Clothing,312.48,Cash,DEMO_STUDENT
+2026-04-17,Transport,Fuel share,77.13,Debit Card,DEMO_STUDENT
+2026-04-17,Shopping,Online purchase,387.71,Cash,DEMO_STUDENT
+2026-04-18,Entertainment,Event,360.63,Debit Card,DEMO_STUDENT
+2026-04-18,Utilities,Internet,361.54,Debit Card,DEMO_STUDENT
+2026-04-18,Accommodation,Maintenance,1773.36,Debit Card,DEMO_STUDENT
+2026-04-19,Food,Lunch,237.45,UPI,DEMO_STUDENT
+2026-04-19,Shopping,Personal items,840.04,UPI,DEMO_STUDENT
+2026-04-19,Transport,Bus pass,163.07,Debit Card,DEMO_STUDENT
+2026-04-20,Utilities,Internet,362.12,UPI,DEMO_STUDENT
+2026-04-20,Food,Groceries,225.06,Debit Card,DEMO_STUDENT
+2026-04-20,Transport,Auto fare,102.06,UPI,DEMO_STUDENT
+2026-04-22,Entertainment,Movie,447.69,Debit Card,DEMO_STUDENT
+2026-04-22,Accommodation,Maintenance,1670.37,Debit Card,DEMO_STUDENT
+2026-04-22,Utilities,Internet,263.91,Cash,DEMO_STUDENT
+2026-04-24,Utilities,Internet,538.2,Debit Card,DEMO_STUDENT
+2026-04-24,Transport,Auto fare,58.35,Cash,DEMO_STUDENT
+2026-04-24,Utilities,Electricity share,493.67,UPI,DEMO_STUDENT
+2026-04-25,Food,Groceries,275.64,Debit Card,DEMO_STUDENT
+2026-04-25,Entertainment,Cafe,301.48,UPI,DEMO_STUDENT
+2026-04-26,Utilities,Internet,586.94,Debit Card,DEMO_STUDENT
+2026-04-26,Shopping,Clothing,439.26,Cash,DEMO_STUDENT
+2026-04-27,Shopping,Online purchase,343.4,UPI,DEMO_STUDENT
+2026-04-28,Shopping,Online purchase,370.3,Debit Card,DEMO_STUDENT
+2026-04-28,Entertainment,Movie,126.17,UPI,DEMO_STUDENT
+2026-04-29,Food,Lunch,270.94,UPI,DEMO_STUDENT
+2026-04-29,Food,Lunch,228.94,Debit Card,DEMO_STUDENT
+2026-04-29,Transport,Bus pass,208.55,Debit Card,DEMO_STUDENT
+2026-04-30,Food,Snacks,187.16,UPI,DEMO_STUDENT
+2026-04-30,Shopping,Personal items,1044.04,UPI,DEMO_STUDENT
+2026-05-01,Education,Books,447.13,UPI,DEMO_STUDENT
+2026-05-02,Healthcare,First aid,416.28,UPI,DEMO_STUDENT
+2026-05-02,Transport,Train ticket,137.15,Cash,DEMO_STUDENT
+2026-05-04,Transport,Train ticket,176.11,Cash,DEMO_STUDENT
+2026-05-05,Education,Course fee,643.76,UPI,DEMO_STUDENT
+2026-05-05,Transport,Fuel share,178.94,Cash,DEMO_STUDENT
+2026-05-06,Food,Dinner,103.57,UPI,DEMO_STUDENT
+2026-05-06,Shopping,Personal items,962.88,UPI,DEMO_STUDENT
+2026-05-07,Accommodation,Hostel fee,2093.26,Cash,DEMO_STUDENT
+2026-05-08,Entertainment,Cafe,212.51,Cash,DEMO_STUDENT
+2026-05-08,Transport,Fuel share,147.84,Debit Card,DEMO_STUDENT
+2026-05-09,Education,Course fee,242.11,Cash,DEMO_STUDENT
+2026-05-10,Transport,Auto fare,207.09,Debit Card,DEMO_STUDENT
+2026-05-10,Food,Dinner,308.9,UPI,DEMO_STUDENT
+2026-05-11,Food,Dinner,347.49,Debit Card,DEMO_STUDENT
+2026-05-11,Shopping,Online purchase,193.48,Debit Card,DEMO_STUDENT
+2026-05-12,Utilities,Internet,401.32,Cash,DEMO_STUDENT
+2026-05-12,Education,Books,643.64,UPI,DEMO_STUDENT
+2026-05-13,Food,Dinner,164.21,Debit Card,DEMO_STUDENT
+2026-05-13,Education,Books,153.74,Debit Card,DEMO_STUDENT
+2026-05-13,Food,Groceries,127.1,UPI,DEMO_STUDENT
+2026-05-14,Transport,Fuel share,170.1,Debit Card,DEMO_STUDENT
+2026-05-14,Entertainment,Event,78.15,Debit Card,DEMO_STUDENT
+2026-05-15,Utilities,Mobile recharge,319.38,Debit Card,DEMO_STUDENT
+2026-05-15,Accommodation,Hostel fee,2541.06,Cash,DEMO_STUDENT
+2026-05-15,Accommodation,Hostel fee,3287.89,Debit Card,DEMO_STUDENT
+2026-05-16,Shopping,Personal items,638.61,Cash,DEMO_STUDENT
+2026-05-17,Utilities,Mobile recharge,453.81,UPI,DEMO_STUDENT
+2026-05-17,Shopping,Personal items,975.47,Debit Card,DEMO_STUDENT
+2026-05-18,Shopping,Online purchase,224.53,Cash,DEMO_STUDENT
+2026-05-18,Food,Groceries,304.12,UPI,DEMO_STUDENT
+2026-05-19,Food,Snacks,279.16,Debit Card,DEMO_STUDENT
+2026-05-20,Shopping,Online purchase,285.22,UPI,DEMO_STUDENT
+2026-05-20,Utilities,Electricity share,706.93,Cash,DEMO_STUDENT
+2026-05-21,Shopping,Online purchase,790.59,Cash,DEMO_STUDENT
+2026-05-21,Accommodation,Hostel fee,4570.61,Debit Card,DEMO_STUDENT
+2026-05-21,Shopping,Personal items,494.05,Cash,DEMO_STUDENT
+2026-05-22,Food,Snacks,310.15,UPI,DEMO_STUDENT
+2026-05-22,Education,Stationery,100.54,Debit Card,DEMO_STUDENT
+2026-05-22,Transport,Bus pass,45.66,UPI,DEMO_STUDENT
+2026-05-23,Food,Groceries,101.04,Debit Card,DEMO_STUDENT
+2026-05-24,Food,Lunch,104.12,Debit Card,DEMO_STUDENT
+2026-05-25,Food,Groceries,232.09,Debit Card,DEMO_STUDENT
+2026-05-26,Food,Lunch,107.13,Debit Card,DEMO_STUDENT
+2026-05-28,Entertainment,Cafe,178.21,Cash,DEMO_STUDENT
+2026-05-28,Shopping,Clothing,962.18,UPI,DEMO_STUDENT
+2026-05-28,Education,Stationery,882.16,Debit Card,DEMO_STUDENT
+2026-05-29,Utilities,Internet,639.26,Debit Card,DEMO_STUDENT
+2026-05-29,Transport,Fuel share,165.4,Cash,DEMO_STUDENT
+2026-05-31,Education,Printing,412.59,Cash,DEMO_STUDENT
+2026-06-02,Transport,Bus pass,170.92,Cash,DEMO_STUDENT
+2026-06-03,Food,Snacks,180.4,Cash,DEMO_STUDENT
+2026-06-03,Accommodation,Room rent,3518.28,UPI,DEMO_STUDENT
+2026-06-03,Transport,Bus pass,78.47,UPI,DEMO_STUDENT
+2026-06-05,Food,Lunch,339.29,Cash,DEMO_STUDENT
+2026-06-06,Transport,Auto fare,125.39,Cash,DEMO_STUDENT
+2026-06-06,Entertainment,Game,189.81,Debit Card,DEMO_STUDENT
+2026-06-06,Shopping,Clothing,610.32,Debit Card,DEMO_STUDENT
+2026-06-07,Healthcare,Clinic,668.14,UPI,DEMO_STUDENT
+2026-06-07,Utilities,Internet,199.66,Cash,DEMO_STUDENT
+2026-06-07,Utilities,Electricity share,159.43,UPI,DEMO_STUDENT
+2026-06-08,Entertainment,Cafe,466.72,UPI,DEMO_STUDENT
+2026-06-08,Entertainment,Game,313.12,Debit Card,DEMO_STUDENT
+2026-06-09,Education,Stationery,470.68,UPI,DEMO_STUDENT
+2026-06-11,Transport,Train ticket,39.3,Debit Card,DEMO_STUDENT
+2026-06-11,Food,Groceries,204.75,Cash,DEMO_STUDENT
+2026-06-12,Food,Lunch,238.25,Cash,DEMO_STUDENT
+2026-06-12,Food,Lunch,334.42,Debit Card,DEMO_STUDENT
+2026-06-12,Transport,Train ticket,97.25,Debit Card,DEMO_STUDENT
+2026-06-13,Education,Books,806.22,Debit Card,DEMO_STUDENT
+2026-06-13,Healthcare,Clinic,391.78,Debit Card,DEMO_STUDENT
+2026-06-14,Food,Groceries,166.1,UPI,DEMO_STUDENT
+2026-06-14,Food,Snacks,257.35,UPI,DEMO_STUDENT
+2026-06-15,Accommodation,Hostel fee,4698.93,UPI,DEMO_STUDENT
+2026-06-15,Education,Books,172.21,UPI,DEMO_STUDENT
+2026-06-15,Entertainment,Cafe,203.34,Cash,DEMO_STUDENT
+2026-06-16,Accommodation,Hostel fee,3817.49,Debit Card,DEMO_STUDENT
+2026-06-16,Utilities,Internet,554.43,Debit Card,DEMO_STUDENT
+2026-06-17,Food,Dinner,80.49,UPI,DEMO_STUDENT
+2026-06-18,Transport,Train ticket,44.78,Cash,DEMO_STUDENT
+2026-06-19,Food,Lunch,149.3,Cash,DEMO_STUDENT
+2026-06-19,Healthcare,Medicine,278.3,UPI,DEMO_STUDENT
+2026-06-19,Entertainment,Game,65.04,UPI,DEMO_STUDENT
+2026-06-20,Utilities,Internet,784.63,UPI,DEMO_STUDENT
+2026-06-20,Food,Groceries,169.4,UPI,DEMO_STUDENT
+2026-06-20,Transport,Auto fare,134.44,Debit Card,DEMO_STUDENT
+2026-06-21,Food,Groceries,86.95,Cash,DEMO_STUDENT
+2026-06-21,Healthcare,Clinic,222.25,Cash,DEMO_STUDENT
+2026-06-22,Food,Lunch,152.51,Debit Card,DEMO_STUDENT
+2026-06-22,Food,Dinner,96.47,Cash,DEMO_STUDENT
+2026-06-23,Food,Groceries,234.23,UPI,DEMO_STUDENT
+2026-06-23,Transport,Auto fare,217.77,UPI,DEMO_STUDENT
+2026-06-23,Transport,Train ticket,105.5,UPI,DEMO_STUDENT
+2026-06-24,Shopping,Personal items,1161.31,Cash,DEMO_STUDENT
+2026-06-24,Shopping,Personal items,729.23,Debit Card,DEMO_STUDENT
+2026-06-24,Accommodation,Room rent,1635.74,Cash,DEMO_STUDENT
+2026-06-25,Transport,Auto fare,190.14,Debit Card,DEMO_STUDENT
+2026-06-25,Transport,Fuel share,152.66,UPI,DEMO_STUDENT
+2026-06-26,Food,Dinner,271.58,UPI,DEMO_STUDENT
+2026-06-27,Accommodation,Hostel fee,2458.92,Debit Card,DEMO_STUDENT
+2026-06-27,Education,Course fee,868.42,Cash,DEMO_STUDENT
+2026-06-29,Healthcare,Clinic,470.8,Debit Card,DEMO_STUDENT
+2026-06-30,Food,Snacks,244.25,Cash,DEMO_STUDENT
+2026-07-01,Entertainment,Game,228.72,UPI,DEMO_STUDENT
+2026-07-01,Education,Course fee,369.03,Debit Card,DEMO_STUDENT
+2026-07-01,Entertainment,Event,454.86,Cash,DEMO_STUDENT
+2026-07-02,Food,Groceries,271.18,Debit Card,DEMO_STUDENT
+2026-07-02,Transport,Train ticket,62.3,UPI,DEMO_STUDENT
+2026-07-02,Utilities,Internet,729.71,Cash,DEMO_STUDENT
+2026-07-03,Education,Printing,194.23,Debit Card,DEMO_STUDENT
+2026-07-03,Transport,Auto fare,40.27,Debit Card,DEMO_STUDENT
+2026-07-04,Education,Books,604.83,Debit Card,DEMO_STUDENT
+2026-07-05,Entertainment,Event,400.89,UPI,DEMO_STUDENT
+2026-07-05,Education,Stationery,684.53,UPI,DEMO_STUDENT
+2026-07-06,Transport,Auto fare,49.51,Debit Card,DEMO_STUDENT
+2026-07-06,Shopping,Personal items,471.62,UPI,DEMO_STUDENT
+2026-07-07,Food,Groceries,85.92,Cash,DEMO_STUDENT
+2026-07-08,Food,Lunch,348.56,UPI,DEMO_STUDENT
+2026-07-08,Shopping,Personal items,621.84,Cash,DEMO_STUDENT
+2026-07-08,Shopping,Personal items,870.8,Debit Card,DEMO_STUDENT
+2026-07-09,Entertainment,Event,487.9,Cash,DEMO_STUDENT
+2026-07-09,Transport,Bus pass,30.52,UPI,DEMO_STUDENT
+2026-07-10,Food,Snacks,346.94,Cash,DEMO_STUDENT
+2026-07-10,Entertainment,Cafe,190.72,Cash,DEMO_STUDENT
+2026-07-10,Utilities,Internet,287.82,Cash,DEMO_STUDENT
+2026-07-11,Entertainment,Movie,409.95,Cash,DEMO_STUDENT
+2026-07-11,Utilities,Electricity share,437.87,UPI,DEMO_STUDENT
+2026-07-11,Education,Books,490.5,Debit Card,DEMO_STUDENT
+2026-07-12,Shopping,Online purchase,721.51,Debit Card,DEMO_STUDENT
+2026-07-12,Shopping,Online purchase,523.36,Cash,DEMO_STUDENT
+2026-07-12,Transport,Bus pass,92.87,UPI,DEMO_STUDENT
+2026-07-13,Education,Books,785.27,Cash,DEMO_STUDENT
+2026-07-13,Food,Lunch,228.26,UPI,DEMO_STUDENT
+2026-07-13,Entertainment,Movie,429.94,UPI,DEMO_STUDENT
+2026-07-15,Utilities,Electricity share,304.39,Debit Card,DEMO_STUDENT
+2026-07-15,Transport,Auto fare,78.31,Cash,DEMO_STUDENT
+2026-07-15,Food,Lunch,191.91,Debit Card,DEMO_STUDENT
+2026-07-16,Utilities,Electricity share,687.17,Debit Card,DEMO_STUDENT
+2026-07-16,Shopping,Personal items,454.03,UPI,DEMO_STUDENT
+2026-07-16,Food,Snacks,242.68,Debit Card,DEMO_STUDENT
+2026-07-17,Shopping,Online purchase,1154.16,Debit Card,DEMO_STUDENT
+2026-07-17,Transport,Bus pass,190.99,UPI,DEMO_STUDENT
+2026-07-17,Food,Snacks,292.09,UPI,DEMO_STUDENT
+2026-07-18,Food,Groceries,314.37,UPI,DEMO_STUDENT
+2026-07-18,Utilities,Internet,371.29,UPI,DEMO_STUDENT
+2026-07-19,Accommodation,Hostel fee,2787.09,Debit Card,DEMO_STUDENT
+2026-07-19,Education,Course fee,401.76,Cash,DEMO_STUDENT
+2026-07-19,Accommodation,Maintenance,2041.82,Debit Card,DEMO_STUDENT
+2026-07-20,Transport,Bus pass,71.79,UPI,DEMO_STUDENT
+2026-07-20,Healthcare,First aid,481.17,UPI,DEMO_STUDENT
+2026-07-20,Food,Groceries,173.42,Cash,DEMO_STUDENT
+2026-07-21,Food,Snacks,219.55,UPI,DEMO_STUDENT
+2026-07-21,Utilities,Internet,217.18,UPI,DEMO_STUDENT
+2026-07-22,Healthcare,Medicine,531.89,UPI,DEMO_STUDENT
+2026-07-22,Food,Lunch,294.44,Cash,DEMO_STUDENT
+2026-07-22,Transport,Bus pass,104.01,Cash,DEMO_STUDENT
+2026-07-23,Transport,Train ticket,160.32,Debit Card,DEMO_STUDENT
+2026-07-24,Transport,Auto fare,181.52,Debit Card,DEMO_STUDENT
+2026-07-24,Food,Dinner,91.28,Debit Card,DEMO_STUDENT
+2026-07-24,Entertainment,Cafe,114.1,UPI,DEMO_STUDENT
+2026-07-25,Education,Course fee,539.73,UPI,DEMO_STUDENT
+2026-07-25,Shopping,Personal items,357.99,Debit Card,DEMO_STUDENT
+2026-07-25,Transport,Train ticket,140.99,Debit Card,DEMO_STUDENT
+2026-07-26,Transport,Fuel share,98.3,UPI,DEMO_STUDENT
+2026-07-26,Food,Snacks,243.79,UPI,DEMO_STUDENT
+2026-07-27,Food,Dinner,237.11,Cash,DEMO_STUDENT
+2026-07-27,Transport,Auto fare,199.37,Debit Card,DEMO_STUDENT
+2026-07-27,Food,Groceries,144.5,Cash,DEMO_STUDENT
+2026-07-28,Food,Lunch,211.66,Cash,DEMO_STUDENT
+2026-07-29,Healthcare,Clinic,75.94,Cash,DEMO_STUDENT
+2026-07-29,Transport,Train ticket,154.13,Cash,DEMO_STUDENT
+2026-07-30,Food,Dinner,318.15,UPI,DEMO_STUDENT
+2026-07-30,Food,Lunch,242.55,Cash,DEMO_STUDENT
+2026-07-30,Education,Stationery,572.63,Debit Card,DEMO_STUDENT
+2026-08-01,Food,Dinner,329.06,Cash,DEMO_STUDENT
+2026-08-02,Shopping,Online purchase,974.08,Debit Card,DEMO_STUDENT
+2026-08-02,Food,Groceries,182.12,UPI,DEMO_STUDENT
+2026-08-03,Shopping,Online purchase,1065.53,Cash,DEMO_STUDENT
+2026-08-03,Education,Stationery,396.3,Debit Card,DEMO_STUDENT
+2026-08-03,Shopping,Clothing,568.04,UPI,DEMO_STUDENT
+2026-08-04,Shopping,Online purchase,229.61,UPI,DEMO_STUDENT
+2026-08-05,Food,Dinner,310.84,Debit Card,DEMO_STUDENT
+2026-08-05,Education,Course fee,396.17,Debit Card,DEMO_STUDENT
+2026-08-05,Food,Groceries,142.04,Debit Card,DEMO_STUDENT
+2026-08-06,Food,Lunch,340.43,Cash,DEMO_STUDENT
+2026-08-07,Shopping,Clothing,896.94,UPI,DEMO_STUDENT
+2026-08-08,Transport,Auto fare,36.39,Cash,DEMO_STUDENT
+2026-08-08,Entertainment,Movie,208.91,Cash,DEMO_STUDENT
+2026-08-08,Entertainment,Cafe,301.6,Debit Card,DEMO_STUDENT
+2026-08-10,Food,Snacks,99.54,Cash,DEMO_STUDENT
+2026-08-10,Shopping,Online purchase,946.96,UPI,DEMO_STUDENT
+2026-08-10,Transport,Auto fare,179.84,UPI,DEMO_STUDENT
+2026-08-11,Shopping,Personal items,1003.18,UPI,DEMO_STUDENT
+2026-08-11,Utilities,Mobile recharge,578.18,UPI,DEMO_STUDENT
+2026-08-12,Entertainment,Event,210.21,Debit Card,DEMO_STUDENT
+2026-08-13,Transport,Fuel share,89.93,UPI,DEMO_STUDENT
+2026-08-13,Food,Dinner,295.8,Debit Card,DEMO_STUDENT
+2026-08-14,Accommodation,Room rent,1541.37,Cash,DEMO_STUDENT
+2026-08-14,Food,Snacks,207.26,Cash,DEMO_STUDENT
+2026-08-15,Transport,Auto fare,64.18,Cash,DEMO_STUDENT
+2026-08-15,Food,Groceries,296.01,Debit Card,DEMO_STUDENT
+2026-08-16,Entertainment,Movie,185.02,Cash,DEMO_STUDENT
+2026-08-16,Entertainment,Game,93.34,Cash,DEMO_STUDENT
+2026-08-18,Food,Groceries,235.49,UPI,DEMO_STUDENT
+2026-08-18,Transport,Auto fare,84.44,UPI,DEMO_STUDENT
+2026-08-18,Transport,Train ticket,89.56,Debit Card,DEMO_STUDENT
+2026-08-19,Food,Groceries,310.64,Cash,DEMO_STUDENT
+2026-08-19,Food,Dinner,97.22,Debit Card,DEMO_STUDENT
+2026-08-20,Utilities,Electricity share,372.89,UPI,DEMO_STUDENT
+2026-08-20,Food,Snacks,259.16,Debit Card,DEMO_STUDENT
+2026-08-20,Food,Dinner,241.35,Cash,DEMO_STUDENT
+2026-08-21,Food,Groceries,82.85,Cash,DEMO_STUDENT
+2026-08-21,Transport,Auto fare,175.52,Cash,DEMO_STUDENT
+2026-08-22,Accommodation,Room rent,3760.97,Debit Card,DEMO_STUDENT
+2026-08-23,Shopping,Clothing,685.14,Debit Card,DEMO_STUDENT
+2026-08-23,Education,Course fee,462.21,UPI,DEMO_STUDENT
+2026-08-24,Food,Lunch,273.1,Cash,DEMO_STUDENT
+2026-08-24,Transport,Fuel share,181.9,Cash,DEMO_STUDENT
+2026-08-26,Healthcare,Clinic,212.55,Debit Card,DEMO_STUDENT
+2026-08-27,Education,Printing,716.8,Debit Card,DEMO_STUDENT
+2026-08-29,Food,Snacks,209.93,Debit Card,DEMO_STUDENT
+2026-08-29,Education,Printing,112.05,Cash,DEMO_STUDENT
+2026-08-29,Accommodation,Hostel fee,2042.47,UPI,DEMO_STUDENT
+2026-08-30,Accommodation,Maintenance,4270.13,UPI,DEMO_STUDENT
+2026-09-01,Food,Dinner,322.64,UPI,DEMO_STUDENT
+2026-09-01,Education,Stationery,358.94,Cash,DEMO_STUDENT
+2026-09-01,Education,Books,463.26,UPI,DEMO_STUDENT
+2026-09-02,Entertainment,Game,135.44,Debit Card,DEMO_STUDENT
+2026-09-02,Shopping,Clothing,148.15,UPI,DEMO_STUDENT
+2026-09-02,Shopping,Personal items,1019.93,Debit Card,DEMO_STUDENT
+2026-09-03,Education,Course fee,611.13,Debit Card,DEMO_STUDENT
+2026-09-05,Utilities,Electricity share,167.98,UPI,DEMO_STUDENT
+2026-09-06,Transport,Fuel share,50.05,Debit Card,DEMO_STUDENT
+2026-09-06,Transport,Train ticket,60.05,Cash,DEMO_STUDENT
+2026-09-06,Entertainment,Game,195.55,Cash,DEMO_STUDENT
+2026-09-07,Entertainment,Cafe,492.33,UPI,DEMO_STUDENT
+2026-09-08,Entertainment,Cafe,463.6,Cash,DEMO_STUDENT
+2026-09-08,Healthcare,First aid,212.41,Debit Card,DEMO_STUDENT
+2026-09-08,Transport,Bus pass,121.68,Cash,DEMO_STUDENT
+2026-09-09,Transport,Bus pass,194.89,Debit Card,DEMO_STUDENT
+2026-09-09,Food,Groceries,215.65,Debit Card,DEMO_STUDENT
+2026-09-10,Education,Course fee,729.09,Cash,DEMO_STUDENT
+2026-09-12,Food,Groceries,116.42,Debit Card,DEMO_STUDENT
+2026-09-12,Education,Course fee,293.85,Cash,DEMO_STUDENT
+2026-09-12,Transport,Train ticket,96.18,Debit Card,DEMO_STUDENT
+2026-09-13,Utilities,Electricity share,263.44,UPI,DEMO_STUDENT
+2026-09-14,Food,Lunch,267.32,Debit Card,DEMO_STUDENT
+2026-09-14,Food,Snacks,227.53,Debit Card,DEMO_STUDENT
+2026-09-15,Food,Snacks,156.68,Cash,DEMO_STUDENT
+2026-09-15,Shopping,Personal items,1104.16,Debit Card,DEMO_STUDENT
+2026-09-16,Healthcare,Medicine,365.03,Debit Card,DEMO_STUDENT
+2026-09-17,Transport,Train ticket,59.83,UPI,DEMO_STUDENT
+2026-09-17,Shopping,Clothing,1066.55,UPI,DEMO_STUDENT
+2026-09-18,Utilities,Electricity share,528.71,Cash,DEMO_STUDENT
+2026-09-18,Education,Stationery,205.42,Debit Card,DEMO_STUDENT
+2026-09-18,Utilities,Mobile recharge,741.98,Cash,DEMO_STUDENT
+2026-09-19,Utilities,Electricity share,312.34,Debit Card,DEMO_STUDENT
+2026-09-19,Food,Groceries,233.1,Cash,DEMO_STUDENT
+2026-09-20,Education,Printing,619.65,UPI,DEMO_STUDENT
+2026-09-20,Transport,Fuel share,214.07,UPI,DEMO_STUDENT
+2026-09-20,Utilities,Electricity share,789.94,Debit Card,DEMO_STUDENT
+2026-09-21,Transport,Bus pass,146.19,Cash,DEMO_STUDENT
+2026-09-21,Utilities,Internet,127.48,Cash,DEMO_STUDENT
+2026-09-21,Food,Lunch,159.49,UPI,DEMO_STUDENT
+2026-09-22,Utilities,Internet,587.28,Debit Card,DEMO_STUDENT
+2026-09-22,Healthcare,First aid,632.27,UPI,DEMO_STUDENT
+2026-09-22,Food,Snacks,270.68,Cash,DEMO_STUDENT
+2026-09-24,Shopping,Clothing,825.48,Cash,DEMO_STUDENT
+2026-09-24,Entertainment,Movie,482.43,UPI,DEMO_STUDENT
+2026-09-25,Education,Stationery,104.6,Cash,DEMO_STUDENT
+2026-09-25,Food,Groceries,242.03,Cash,DEMO_STUDENT
+2026-09-27,Shopping,Clothing,763.61,Cash,DEMO_STUDENT
+2026-09-27,Shopping,Clothing,860.66,Cash,DEMO_STUDENT
+2026-09-27,Entertainment,Game,391.3,Cash,DEMO_STUDENT
+2026-09-28,Food,Lunch,95.71,Debit Card,DEMO_STUDENT
+2026-09-28,Utilities,Internet,347.7,UPI,DEMO_STUDENT
+2026-09-28,Food,Lunch,86.48,Debit Card,DEMO_STUDENT
+2026-09-29,Food,Lunch,156.04,Debit Card,DEMO_STUDENT
+2026-09-29,Transport,Auto fare,105.25,Debit Card,DEMO_STUDENT
+2026-09-29,Food,Dinner,121.95,Debit Card,DEMO_STUDENT
+2026-09-30,Shopping,Clothing,120.59,Debit Card,DEMO_STUDENT
+2026-09-30,Education,Books,232.78,Cash,DEMO_STUDENT
